@@ -1,0 +1,100 @@
+[{
+	"name": "NACH0.Guards",
+	"version": "1.0.0",
+	"namepretty": "NACH0's Guards",
+	"enabled": true,
+	"marksgamemodded": true,
+	"compatibleversions": [
+		"0.7.0"
+	],
+	"jsonFiles": [
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Ammo.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Weapons.json"
+		},
+		{
+			"fileType": "generateBlocks",
+			"index": 10001,
+			"relativePath": "gamedata/types/DayGuards.json"
+		},
+		{
+			"fileType": "generateBlocks",
+			"index": 10001,
+			"relativePath": "gamedata/types/NightGuards.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCTypes",
+			"index": 10001,
+			"relativePath": "gamedata/NPCTypes/DayGuards.json"
+		},
+		{
+			"fileType": "addBlockJobs",
+			"index": 10001,
+			"relativePath": "gamedata/Base/JobBlocks/DayGuards.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCTypes",
+			"index": 10001,
+			"relativePath": "gamedata/NPCTypes/NightGuards.json"
+		},
+		{
+			"fileType": "addBlockJobs",
+			"index": 10001,
+			"relativePath": "gamedata/Base/JobBlocks/NightGuards.json"
+		},
+		{
+			"fileType": "addScience",
+			"index": 10001,
+			"relativePath": "gamedata/research/General.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "NACH0.Jobs.ToolCrafter",
+			"relativePath": "gamedata/recipes/ToolCrafter.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.tailor",
+			"relativePath": "gamedata/recipes/Tailor.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.metalsmithjob",
+			"relativePath": "gamedata/recipes/MetalSmith.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "NACH0.Jobs.Fletcher",
+			"relativePath": "gamedata/recipes/Fletcher.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.crafter",
+			"relativePath": "gamedata/recipes/Crafter.json"
+		},
+		{
+			"fileType": "addOrOverrideLocalization",
+			"index": 15000,
+			"relativePath": "gamedata/locale/en-US/en-US.json"
+		}
+	],
+	"patchnotes": [{
+		"version": "1.0.0",
+		"notes": [
+			"Initial Release",
+			"*If you find any issues or have suggestions join the discord",
+			"*discord.gg/tqFhxhm"
+		]
+	}]
+}]
