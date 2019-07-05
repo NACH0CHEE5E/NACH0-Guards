@@ -1,6 +1,6 @@
 [
 	{
-		"icon" : "./../../textures/icons/Slingshot.png",
+		"icon" : "./../textures/icons/Slingshot.png",
 		"iterationCount" : 5,
 		"iterationRequirements" : [
 			{
@@ -24,7 +24,7 @@
 			"pipliz.baseresearch.crossbow",
 			"NACH0.Research.Fletcher"
 		],
-		"icon" : "./../../textures/icons/Ballista.png",
+		"icon" : "./../textures/icons/Ballista.png",
 		"iterationCount" : 50,
 		"iterationRequirements" : [
 			{
@@ -51,7 +51,7 @@
 			"pipliz.baseresearch.bloomery",
 			"pipliz.baseresearch.archery"
 		],
-		"icon" : "./../../textures/icons/CompoundBow.png",
+		"icon" : "./../textures/icons/CompoundBow.png",
 		"iterationCount" : 12,
 		"iterationRequirements" : [
 			{
@@ -77,7 +77,7 @@
 		"dependencies" : [
 			"pipliz.baseresearch.matchlockgun"
 		],
-		"icon" : "./../../textures/icons/Sniper.png",
+		"icon" : "./../textures/icons/Sniper.png",
 		"iterationCount" : 40,
 		"iterationRequirements" : [
 			{
@@ -103,7 +103,7 @@
 			"pipliz.baseresearch.bloomery",
 			"pipliz.baseresearch.sciencebagmilitary"
 		],
-		"icon" : "./../../../../../../textures/icons/ironsword.png",
+		"icon" : "./../../../../../textures/icons/ironsword.png",
 		"iterationCount" : 15,
 		"iterationRequirements" : [
 			{

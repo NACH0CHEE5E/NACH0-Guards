@@ -36,7 +36,7 @@
 		{
 			"fileType": "addBlockJobs",
 			"index": 10001,
-			"relativePath": "gamedata/Base/JobBlocks/DayGuards.json"
+			"relativePath": "gamedata/JobBlocks/DayGuards.json"
 		},
 		{
 			"fileType": "addOrReplaceNPCTypes",
@@ -46,7 +46,7 @@
 		{
 			"fileType": "addBlockJobs",
 			"index": 10001,
-			"relativePath": "gamedata/Base/JobBlocks/NightGuards.json"
+			"relativePath": "gamedata/JobBlocks/NightGuards.json"
 		},
 		{
 			"fileType": "addScience",
@@ -54,10 +54,21 @@
 			"relativePath": "gamedata/research/General.json"
 		},
 		{
+			"fileType": "addScience",
+			"index": 10001,
+			"relativePath": "gamedata/research/Hidden.json"
+		},
+		{
 			"fileType": "addOrReplaceNPCRecipes",
 			"index": 10001,
 			"npcType": "NACH0.Jobs.ToolCrafter",
 			"relativePath": "gamedata/recipes/ToolCrafter.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.gunsmithjob",
+			"relativePath": "gamedata/recipes/GunSmith.json"
 		},
 		{
 			"fileType": "addOrReplaceNPCRecipes",
